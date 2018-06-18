@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """The first script in The Beatles Songs Analysis series.
 
-The script gets the Beatles songs data: lyrics, year, album, and duration
+The script gets the Beatles songs data: lyrics, year, album, authorship and duration
 from free web sources, adds some information and stores the result into the json file
 'data.json'.
 
