@@ -23,3 +23,5 @@ The script *get_data.py* gets the Beatles songs data from free web sources, adds
 **Step 3. Whose Voice is Soothing?** We know that all the four Beatles members were singers. But they sang both alone and together in different songs. So, here I analyze vocals data.
 
 **Step 4. Authors** Here I do some analysis of the Beatles songs authorship. Only official authorship data is analyzed, i.e., all non-cover songs belong to Lennon-McCartney, Harrison, or Starkey. Sure, the lion share of the Beatles songs is attributed to Lennon-McCartney. But there is some interesting information behind it to reveal.
+
+**Step 5. Word Frequency: You and I** This step contains analysis of word frequency in the Beatles songs.
