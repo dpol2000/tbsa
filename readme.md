@@ -27,3 +27,7 @@ The script *get_data.py* gets the Beatles songs data from free web sources, adds
 **Step 5. Word Frequency: You and I**. This step contains analysis of word frequency in the Beatles songs.
 
 **Step 6. Word Frequency: Love and Know**. Here I continue to explore the word frequency in the Beatles lyrics. Let's remove stopwords and see what happens.
+
+**Step 7. Parts of Speech**. This step contains analysis of parts of speech (POS) frequency in the Beatles songs.
+
+**Step 8. Parts of Speech 2**. Here I explore the most frequent words in the songs of the Beatles according to their classes and semantics.
