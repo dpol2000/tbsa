@@ -32,4 +32,4 @@ The script *get_data.py* gets the Beatles songs data from free web sources, adds
 
 **Step 8. Parts of Speech 2**. Here I explore the most frequent words in the songs of the Beatles according to their classes and semantics.
 
-**Step 9. Parts of Speech 2**. A small step back: I explore track correlations between length, number of words in titles and number of words in lyrics.
+**Step 9. Song Titles and Words-Time Ratio**. A small step back: I explore track correlations between length, number of words in titles and number of words in lyrics.
